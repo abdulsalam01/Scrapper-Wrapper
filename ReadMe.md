@@ -1,3 +1,8 @@
+# Copyright
+- written by: abdul salam
+- email: abdulsalam121196@gmail.com
+- id github: abdulsalam01
+
 # Start Scrap-CC
 ## Prerequisites
 - nodejs installed
@@ -13,7 +18,7 @@
 
 # Code Workflow
 ## System Design
-![crawler-design]('./system-desing/Crawler - [Abdul Salam].png')
+![crawler-design]("./system-design/Crawler - [Abdul Salam].png")
 
 ## About the code (achieve of what)
 this code works with simple library (axios and cheerio), to get the data and mapping it into several classes model.
