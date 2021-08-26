@@ -18,7 +18,7 @@
 
 # Code Workflow
 ## System Design
-![crawler-design]("./system-design/Crawler - [Abdul Salam].png")
+![crawler-design]("./system-design/Crawler.png")
 
 ## About the code (achieve of what)
 this code works with simple library (axios and cheerio), to get the data and mapping it into several classes model.
